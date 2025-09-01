@@ -5,3 +5,6 @@
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience. <br>
 
 This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
+
+# Problem Statement
+The sales director is facing a lot of challenges such as :The marketing is growing dynamically and then he’s struggling in terms of tracking the sales, needing more accurate insights about the company sales, and then take the necessary decisions. The sales director need to know how the sales are going in all operations and the information provided by the regional sales managers are not being enough.Just hearing the numbers or receive tons of excel files is far from being effective in terms of having a reliable overview of the business. Instead, he want to be able to look at the data and understand what’s going on right away.
