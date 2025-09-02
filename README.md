@@ -24,8 +24,15 @@ Step 1 : ETL and data cleaning by power query editor .
 
 
 Step 2 : Analyzing data by MySQL and Python.
-<img width="1365" height="727" alt="capture_250902_103218" src="https://github.com/user-attachments/assets/d0bd98f8-f72e-4f06-be04-3d69a9748589" />
+<img width="1365" height="727" alt="capture_250902_102746" src="https://github.com/user-attachments/assets/fe5cb8a0-9f07-49d5-bb87-ae91faeefa12" />
+<img width="1365" height="730" alt="capture_250902_102825" src="https://github.com/user-attachments/assets/7e85a106-b0ae-4d07-b500-046e9b61a80c" />
+<img width="1365" height="729" alt="capture_250902_102930" src="https://github.com/user-attachments/assets/4d105b03-958f-43ab-813a-882b1d1f3895" />
+<img width="1356" height="727" alt="capture_250902_103106" src="https://github.com/user-attachments/assets/19f0c01d-a449-46aa-93c8-874417f74ac2" />
 
+<img width="1365" height="733" alt="capture_250902_103203" src="https://github.com/user-attachments/assets/ddf8a5a7-0066-4afa-a438-3edccc576f49" />
+
+
+<img width="1362" height="732" alt="capture_250902_103147" src="https://github.com/user-attachments/assets/9d373f3e-fff5-4cb1-9786-513c6adf2bf5" />
 
 
 
