@@ -23,14 +23,13 @@ Step 1 : ETL and data cleaning by power query editor .
 
 
 
-Step 2 : Analyzing data by MySQL .
+Step 2 : Analyzing data by MySQL and Python.
+<img width="1365" height="727" alt="capture_250902_103218" src="https://github.com/user-attachments/assets/d0bd98f8-f72e-4f06-be04-3d69a9748589" />
 
 
 
 
 
-
-photo<br>
 
 
 
